@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">EmoGenation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="Training_HE">אימון</string>
+    <string name="Learning_HE">לימוד</string>
+    <string name="Settings_HE">הגדרות</string>
+    <string name="Happiness_HE">שמחה</string>
+    <string name="Sadness_HE">עצב</string>
+    <string name="Anger_HE">כעס</string>
+    <string name="Pain_HE">כאב</string>
+    <string name="Love_HE">אהבה</string>
+
+    <string name="Stage1Title_HE">שלב א' לימוד רגשות</string>
+    <string name="Stage1Instruction_HE">לחץ/י על אחד מהכפתורים לקבלת קטע המבטא רגש</string>
+
+    <string name="profile_prompt">Choose a country</string>
+    <string-array name="profiles_arrays">
+        <item>פרופיל ברירת מחדל 1</item>
+        <item>פרופיל ברירת מחדל 2</item>
+    </string-array>
+    <string name="title_activity_secondary">secondary</string>
+
+</resources>
